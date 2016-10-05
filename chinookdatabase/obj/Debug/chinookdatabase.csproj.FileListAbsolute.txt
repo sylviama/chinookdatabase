@@ -1,0 +1,9 @@
+c:\users\nssstudent\documents\visual studio 2015\Projects\chinookdatabase\chinookdatabase\bin\Debug\chinookdatabase.exe.config
+c:\users\nssstudent\documents\visual studio 2015\Projects\chinookdatabase\chinookdatabase\bin\Debug\chinookdatabase.exe
+c:\users\nssstudent\documents\visual studio 2015\Projects\chinookdatabase\chinookdatabase\bin\Debug\chinookdatabase.pdb
+c:\users\nssstudent\documents\visual studio 2015\Projects\chinookdatabase\chinookdatabase\bin\Debug\EntityFramework.dll
+c:\users\nssstudent\documents\visual studio 2015\Projects\chinookdatabase\chinookdatabase\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nssstudent\documents\visual studio 2015\Projects\chinookdatabase\chinookdatabase\bin\Debug\EntityFramework.xml
+c:\users\nssstudent\documents\visual studio 2015\Projects\chinookdatabase\chinookdatabase\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nssstudent\documents\visual studio 2015\Projects\chinookdatabase\chinookdatabase\obj\Debug\chinookdatabase.exe
+c:\users\nssstudent\documents\visual studio 2015\Projects\chinookdatabase\chinookdatabase\obj\Debug\chinookdatabase.pdb
